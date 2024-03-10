@@ -1,0 +1,16 @@
+Decade:  2
+Sex:  1 , entries:  2 , rejected:  0.0 %
+Sex:  2 , entries:  1 , rejected:  0.0 %
+Decade:  3
+Sex:  1 , entries:  1107 , rejected:  2.619692863595303 %
+Sex:  2 , entries:  665 , rejected:  3.4586466165413534 %
+Decade:  4
+Sex:  1 , entries:  11428 , rejected:  2.1176058802940148 %
+Sex:  2 , entries:  6889 , rejected:  3.3241399332268835 %
+Decade:  5
+Sex:  1 , entries:  21566 , rejected:  2.735787814151906 %
+Sex:  2 , entries:  10517 , rejected:  3.6892649995245796 %
+Decade:  6
+Sex:  1 , entries:  7198 , rejected:  3.278688524590164 %
+Sex:  2 , entries:  4053 , rejected:  3.7996545768566494 %
+3rd Clean Dataset length:  61535

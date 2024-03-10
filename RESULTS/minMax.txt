@@ -1,0 +1,14 @@
+age :  min:  29.0  max: 64.0
+gender :  min:  1.0  max: 2.0
+height :  min:  141.0  max: 188.0
+weight :  min:  32.0  max: 116.0
+ap_hi :  min:  80.0  max: 175.0
+ap_lo :  min:  53.0  max: 110.0
+cholesterol :  min:  1.0  max: 3.0
+gluc :  min:  1.0  max: 3.0
+smoke :  min:  0.0  max: 1.0
+alco :  min:  0.0  max: 1.0
+active :  min:  0.0  max: 1.0
+bmi :  min:  12.0  max: 55.0
+BPGroup :  min:  1.0  max: 4.0
+BPPA :  min:  0.7  max: 1.4
